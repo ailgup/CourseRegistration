@@ -3,7 +3,6 @@
 # Course Registration Status Checker
 
 #Designed for NEU Schedualing banner
-#2016 Chris Puglia
 
 # How To Use
 #     python class2.py [CRN]
